@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Dhruv.</h1>
+<h1 align="center">Dhruv Toprani</h1>
 
 <p align="center">
-  Computer Engineering @ Michigan State &middot; AI Systems &middot; Robotics Execution &middot; Applied ML
+  Computer Engineering @ Michigan State &middot; AI Systems &middot; Product Execution &middot; Applied ML
 </p>
 
 <p align="center">
@@ -12,37 +12,19 @@
 
 ---
 
-I'm a computer engineering student at Michigan State building **AI-powered systems for technical teams**: tools that surface risk, structure messy context, simulate complex behavior, and make decisions easier to execute.
+### Project Highlights
 
-My strongest work sits where **software, ML, robotics, and product execution** overlap. I have built financial risk dashboards, AI workflow tools for PM/TPM teams, MCP developer infrastructure, research simulation labs, and microgrid coordination prototypes.
-
-**Currently focused on robotics program execution, human-AI research, applied ML products, and AI-native tools for engineering teams.**
-
----
-
-### Featured Projects
-
-| Project | Description | Stack |
+| Project | Product Angle | Stack |
 |---|---|---|
-| [AtlasFX](https://github.com/dhruvtoprani/atlasfx) | Global money weather map that combines FX movement, headline sentiment, and macro indicators into explainable country-level currency stress signals | Next.js, TypeScript, FastAPI, Python, `scikit-learn`, World Bank API |
-| [PreFlight AI](https://github.com/dhruvtoprani/preflight-AI) | Slack-native AI stakeholder intelligence system that helps PMs and TPMs pressure-test initiatives before kickoff using Jira, Confluence, retrieval, and evidence-labeled risk reports | Python, FastAPI, Pydantic, Slack, Jira API, Confluence API, OpenAI API |
-| [DocFlow MCP](https://github.com/dhruvtoprani/docflow-mcp) | MCP-native documentation clipper that turns noisy docs pages into clean, implementation-ready context for ChatGPT, Claude, Cursor, and agentic coding tools | TypeScript, Node.js, MCP, HTTP API, Vercel, Chrome Extension |
-| [Adaptive Higher Order Contagion Lab](https://github.com/dhruvtoprani/adaptive_higher_order_contagion_lab) | Interactive research simulation lab for adaptive SIS contagion on hypergraphs, bistability, explosive transitions, Monte Carlo sweeps, and reproducibility pipelines | Python, Streamlit, NumPy, Pandas, Monte Carlo, Hypergraph Modeling |
-| [WattX](https://github.com/dhruvtoprani/WattX-CodeBase) | Peer-to-peer microgrid simulation and energy coordination platform exploring distributed energy supply, demand, local energy flow, and agent-based coordination | Next.js, Python, Flask, Supabase, Fetch.ai |
+| [AtlasFX](https://github.com/dhruvtoprani/atlasfx) | Financial ML dashboard that turns FX movement, headline sentiment, and macro indicators into explainable country-level currency stress signals | Next.js, TypeScript, FastAPI, Python, `scikit-learn`, World Bank API |
+| [PreFlight AI](https://github.com/dhruvtoprani/preflight-AI) | AI stakeholder intelligence tool for PMs and TPMs to pressure-test initiatives before kickoff using Jira, Confluence, retrieval, and evidence-labeled risk reports | Python, FastAPI, Pydantic, Slack, Jira API, Confluence API, OpenAI API |
+| [DocFlow MCP](https://github.com/dhruvtoprani/docflow-mcp) | MCP-native documentation clipper that turns noisy docs into clean, implementation-ready context for AI coding agents | TypeScript, Node.js, MCP, HTTP API, Vercel, Chrome Extension |
+| [Adaptive Higher Order Contagion Lab](https://github.com/dhruvtoprani/adaptive_higher_order_contagion_lab) | Research simulation lab for adaptive SIS contagion on hypergraphs, bistability, Monte Carlo sweeps, and reproducibility pipelines | Python, Streamlit, NumPy, Pandas, Monte Carlo, Hypergraph Modeling |
+| [WattX](https://github.com/dhruvtoprani/WattX-CodeBase) | Peer-to-peer microgrid simulation exploring distributed energy supply, demand, local energy flow, and agent-based coordination | Next.js, Python, Flask, Supabase, Fetch.ai |
 
 ---
 
-### What I am working on
-
-- 🤖 **Technical Program Management Intern @ Whisker** — robotics release execution, sprint systems, Jira/Confluence workflows, and cross-functional engineering coordination
-- 🔬 **Human-AI / HRI Research @ MSU D-CYPHER Lab** — preference-aware task allocation, adaptive scheduling, and multi-robot decision support
-- 🏎️ **Autonomous Racing Research** — radar-camera fusion and perception work for the PoliMove-MSU autonomous race car
-- 🛠️ **Technical Program Lead @ MSU VEX-U Robotics** — hardware/software integration, team execution, and competition system planning
-- ⚡ **Independent Builder** — AI workflow tools, applied ML dashboards, developer infrastructure, and simulation-driven product prototypes
-
----
-
-### Tech Stack
+### Skills & Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -68,19 +50,3 @@ My strongest work sits where **software, ML, robotics, and product execution** o
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-
----
-
-### GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=dhruvtoprani&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dhruvtoprani&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvtoprani&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide_progress=true)
-
-### Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=dhruvtoprani&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=dhruvtoprani&icon=0&color=0)](https://visitcount.itsvg.in)
