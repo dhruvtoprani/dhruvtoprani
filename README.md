@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dhruv.</h1>
 
 <p align="center">
-  Computer Engineering @ Michigan State &middot; AI Systems &middot; Robotics Research &middot; Product Infrastructure
+  Computer Engineering @ Michigan State &middot; AI Systems &middot; Robotics Execution &middot; Applied ML
 </p>
 
 <p align="center">
@@ -12,11 +12,11 @@
 
 ---
 
-I'm an undergraduate computer engineering student at Michigan State University building systems across **AI-native workflows, applied machine learning, robotics, human-AI interaction, simulation, energy systems, and product execution**. My work focuses on turning messy operational and research problems into usable software: risk dashboards, kickoff intelligence systems, research simulators, developer tools, and coordination platforms.
+I'm a computer engineering student at Michigan State building **AI-powered systems for technical teams**: tools that surface risk, structure messy context, simulate complex behavior, and make decisions easier to execute.
 
-I care about building tools that make hidden complexity visible and help technical teams move with more clarity.
+My strongest work sits where **software, ML, robotics, and product execution** overlap. I have built financial risk dashboards, AI workflow tools for PM/TPM teams, MCP developer infrastructure, research simulation labs, and microgrid coordination prototypes.
 
-**Currently exploring technical program management, product management, robotics, AI systems, and applied ML roles.**
+**Currently focused on robotics program execution, human-AI research, applied ML products, and AI-native tools for engineering teams.**
 
 ---
 
@@ -34,12 +34,11 @@ I care about building tools that make hidden complexity visible and help technic
 
 ### What I am working on
 
-- 🤖 Technical Program Management Intern at **Whisker** — robotics pod execution, release readiness, Jira/Confluence workflows, and cross-functional engineering coordination
-- 🔬 Researcher at **MSU D-CYPHER Lab** — human-AI and human-robot task allocation, adaptive scheduling, and preference-aware multi-robot systems
-- 🏎️ Research contributor in autonomous racing — radar-camera fusion and perception work for the PoliMove-MSU autonomous race car
-- 🛠️ Technical Program Lead for **MSU VEX-U Robotics** — hardware/software integration, team execution, and competition systems
-- ⚡ Builder of AI/product systems — PreFlight AI, DocFlow MCP, AtlasFX, WattX, and simulation-driven research tools
-- 🧭 Interested in roles at the intersection of robotics, AI systems, product execution, and applied machine learning
+- 🤖 **Technical Program Management Intern @ Whisker** — robotics release execution, sprint systems, Jira/Confluence workflows, and cross-functional engineering coordination
+- 🔬 **Human-AI / HRI Research @ MSU D-CYPHER Lab** — preference-aware task allocation, adaptive scheduling, and multi-robot decision support
+- 🏎️ **Autonomous Racing Research** — radar-camera fusion and perception work for the PoliMove-MSU autonomous race car
+- 🛠️ **Technical Program Lead @ MSU VEX-U Robotics** — hardware/software integration, team execution, and competition system planning
+- ⚡ **Independent Builder** — AI workflow tools, applied ML dashboards, developer infrastructure, and simulation-driven product prototypes
 
 ---
 
