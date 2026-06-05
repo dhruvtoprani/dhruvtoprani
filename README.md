@@ -1,7 +1,7 @@
 <h1 align="center">Dhruv Toprani</h1>
 
 <p align="center">
-  Computer Engineering @ Michigan State &middot; AI Systems &middot; Product Execution &middot; Applied ML
+  Honors Computer Engineering @ Michigan State &middot; AI Systems &middot; Product Management &middot; Researcher
 </p>
 
 <p align="center">
