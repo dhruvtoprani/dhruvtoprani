@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  Building interpretable AI products that turn complex technical and public data into clear operational decisions.
+</p>
+
+<p align="center">
   <a href="https://github.com/dhruvtoprani"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/dhruvtoprani"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:topranid@msu.edu"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
@@ -16,6 +20,7 @@
 
 | Project | Product Angle | Stack |
 |---|---|---|
+| [RatRadar NYC](https://github.com/dhruvtoprani/ratradar-nyc) · [Live Demo](https://ratradar-nyc.vercel.app) | Interpretable civic-intelligence system that predicts next-week rodent complaint surges across 177 NYC ZIP areas using public 311 history, leakage-safe time-series features, and transparent risk explanations | Python, XGBoost, SHAP, Streamlit, Plotly, Pandas, Vercel |
 | [AtlasFX](https://github.com/dhruvtoprani/atlasfx) | Financial ML dashboard that turns FX movement, headline sentiment, and macro indicators into explainable country-level currency stress signals | Next.js, TypeScript, FastAPI, Python, `scikit-learn`, World Bank API |
 | [PreFlight AI](https://github.com/dhruvtoprani/preflight-AI) | AI stakeholder intelligence tool for PMs and TPMs to pressure-test initiatives before kickoff using Jira, Confluence, retrieval, and evidence-labeled risk reports | Python, FastAPI, Pydantic, Slack, Jira API, Confluence API, OpenAI API |
 | [DocFlow MCP](https://github.com/dhruvtoprani/docflow-mcp) | MCP-native documentation clipper that turns noisy docs into clean, implementation-ready context for AI coding agents | TypeScript, Node.js, MCP, HTTP API, Vercel, Chrome Extension |
