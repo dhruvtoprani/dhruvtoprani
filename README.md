@@ -13,9 +13,6 @@
 ---
 
 ## Project Highlights
-
-> Portfolio projects built around ML systems, product workflows, public datasets, simulation, and human-centered AI.
-
 <table>
   <tr>
     <td width="50%" valign="top">
