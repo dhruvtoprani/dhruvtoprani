@@ -4,9 +4,7 @@
   Honors Computer Engineering @ Michigan State &middot; AI Systems &middot; Product Management &middot; Researcher
 </p>
 
-<p align="center">
-  Building interpretable AI products that turn complex technical and public data into clear operational decisions.
-</p>
+
 
 <p align="center">
   <a href="https://github.com/dhruvtoprani"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
