@@ -46,12 +46,12 @@
       <p><b>3D FPV drone builder for compatibility checks, performance estimates, and BOM exports.</b></p>
       <p>Helps new builders, hobbyists, and student teams choose parts, visualize a quadcopter, catch unsafe combinations, compare mission tradeoffs, and export a build before buying hardware.</p>
       <p>
+        <a href="https://dronelab-sooty.vercel.app">Live Demo</a> &middot;
         <a href="https://github.com/dhruvtoprani/DroneLab">Source</a> &middot;
         <a href="https://github.com/dhruvtoprani/DroneLab/blob/main/docs/PRD.md">PRD</a> &middot;
-        <a href="https://github.com/dhruvtoprani/DroneLab#product-goals">Product Goals</a> &middot;
-        <a href="https://github.com/dhruvtoprani/DroneLab#local-development">Run Locally</a>
+        <a href="https://github.com/dhruvtoprani/DroneLab#product-goals">Product Goals</a>
       </p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>Three.js</code> <code>React Three Fiber</code> <code>Zustand</code> <code>Prisma</code> <code>Supabase</code></p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Three.js</code> <code>React Three Fiber</code> <code>Zustand</code> <code>Prisma</code> <code>Supabase</code> <code>Vercel</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/dhruvtoprani/atlasfx">AtlasFX</a></h3>
