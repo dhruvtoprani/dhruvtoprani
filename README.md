@@ -29,18 +29,30 @@
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/dhruvtoprani/SunSight">SunSight</a></h3>
-      <p><b>AI-assisted solar layout and savings planner for address-based rooftop feasibility.</b></p>
-      <p>Converts a selected rooftop or parcel into usable area, panel layouts, production estimates, savings assumptions, simple payback, and CO2 avoided through a same-origin geospatial planning app.</p>
+      <p><b>Solar feasibility workspace for address-based rooftop and parcel planning.</b></p>
+      <p>Helps property owners and solar teams draw usable areas, compare layout strategies, and understand capacity, generation, savings, payback, and CO2 impact before a full site survey.</p>
       <p>
         <a href="https://sunsight-eight.vercel.app">Live Demo</a> &middot;
         <a href="https://github.com/dhruvtoprani/SunSight">Source</a> &middot;
-        <a href="https://github.com/dhruvtoprani/SunSight#architecture">Architecture</a> &middot;
+        <a href="https://github.com/dhruvtoprani/SunSight#product-goals">Product Goals</a> &middot;
         <a href="https://github.com/dhruvtoprani/SunSight#deploy">Deployment</a>
       </p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>FastAPI</code> <code>Leaflet</code> <code>Mapbox</code> <code>PVWatts</code> <code>Vercel</code></p>
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/dhruvtoprani/DroneLab">DroneLab</a></h3>
+      <p><b>3D FPV drone builder for compatibility checks, performance estimates, and BOM exports.</b></p>
+      <p>Helps new builders, hobbyists, and student teams choose parts, visualize a quadcopter, catch unsafe combinations, compare mission tradeoffs, and export a build before buying hardware.</p>
+      <p>
+        <a href="https://github.com/dhruvtoprani/DroneLab">Source</a> &middot;
+        <a href="https://github.com/dhruvtoprani/DroneLab/blob/main/docs/PRD.md">PRD</a> &middot;
+        <a href="https://github.com/dhruvtoprani/DroneLab#product-goals">Product Goals</a> &middot;
+        <a href="https://github.com/dhruvtoprani/DroneLab#local-development">Run Locally</a>
+      </p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Three.js</code> <code>React Three Fiber</code> <code>Zustand</code> <code>Prisma</code> <code>Supabase</code></p>
+    </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/dhruvtoprani/atlasfx">AtlasFX</a></h3>
       <p><b>Global money-weather dashboard for explainable currency stress detection.</b></p>
@@ -53,6 +65,8 @@
       </p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>FastAPI</code> <code>Python</code> <code>scikit-learn</code> <code>Frankfurter API</code> <code>World Bank API</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/dhruvtoprani/preflight-AI">PreFlight AI</a></h3>
       <p><b>Slack-native stakeholder intelligence layer for PM and TPM kickoff readiness.</b></p>
@@ -65,8 +79,6 @@
       </p>
       <p><code>Python</code> <code>FastAPI</code> <code>Pydantic</code> <code>Slack</code> <code>Jira API</code> <code>Confluence API</code> <code>OpenAI API</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/dhruvtoprani/docflow-mcp">DocFlow MCP</a></h3>
       <p><b>MCP-native documentation clipper for AI coding workflows.</b></p>
@@ -79,6 +91,8 @@
       </p>
       <p><code>TypeScript</code> <code>Node.js</code> <code>MCP</code> <code>HTTP API</code> <code>Vercel</code> <code>Chrome Extension</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/dhruvtoprani/adaptive_higher_order_contagion_lab">Adaptive Higher Order Contagion Lab</a></h3>
       <p><b>Research simulation lab for adaptive SIS contagion on hypergraphs.</b></p>
@@ -91,9 +105,7 @@
       </p>
       <p><code>Python</code> <code>Streamlit</code> <code>NumPy</code> <code>Pandas</code> <code>Monte Carlo</code> <code>Hypergraph Modeling</code></p>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/dhruvtoprani/WattX-CodeBase">WattX</a></h3>
       <p><b>Peer-to-peer microgrid simulation and distributed energy coordination platform.</b></p>
       <p>HackDearborn-winning MVP exploring how homes, batteries, solar, and storage nodes could coordinate local supply, demand, and energy transfers through an agent-based simulation layer.</p>
