@@ -28,6 +28,20 @@
       <p><code>Python</code> <code>XGBoost</code> <code>SHAP</code> <code>Streamlit</code> <code>Plotly</code> <code>Pandas</code> <code>Vercel</code></p>
     </td>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/dhruvtoprani/SunSight">SunSight</a></h3>
+      <p><b>AI-assisted solar layout and savings planner for address-based rooftop feasibility.</b></p>
+      <p>Converts a selected rooftop or parcel into usable area, panel layouts, production estimates, savings assumptions, simple payback, and CO2 avoided through a same-origin geospatial planning app.</p>
+      <p>
+        <a href="https://sunsight-eight.vercel.app">Live Demo</a> &middot;
+        <a href="https://github.com/dhruvtoprani/SunSight">Source</a> &middot;
+        <a href="https://github.com/dhruvtoprani/SunSight#architecture">Architecture</a> &middot;
+        <a href="https://github.com/dhruvtoprani/SunSight#deploy">Deployment</a>
+      </p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>FastAPI</code> <code>Leaflet</code> <code>Mapbox</code> <code>PVWatts</code> <code>Vercel</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/dhruvtoprani/atlasfx">AtlasFX</a></h3>
       <p><b>Global money-weather dashboard for explainable currency stress detection.</b></p>
       <p>Combines FX movement, headline sentiment, and macro indicators into country-level stress signals with source quality, model diagnostics, and transparent no-trading-claims framing.</p>
@@ -39,8 +53,6 @@
       </p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>FastAPI</code> <code>Python</code> <code>scikit-learn</code> <code>Frankfurter API</code> <code>World Bank API</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/dhruvtoprani/preflight-AI">PreFlight AI</a></h3>
       <p><b>Slack-native stakeholder intelligence layer for PM and TPM kickoff readiness.</b></p>
@@ -53,6 +65,8 @@
       </p>
       <p><code>Python</code> <code>FastAPI</code> <code>Pydantic</code> <code>Slack</code> <code>Jira API</code> <code>Confluence API</code> <code>OpenAI API</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/dhruvtoprani/docflow-mcp">DocFlow MCP</a></h3>
       <p><b>MCP-native documentation clipper for AI coding workflows.</b></p>
@@ -65,8 +79,6 @@
       </p>
       <p><code>TypeScript</code> <code>Node.js</code> <code>MCP</code> <code>HTTP API</code> <code>Vercel</code> <code>Chrome Extension</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/dhruvtoprani/adaptive_higher_order_contagion_lab">Adaptive Higher Order Contagion Lab</a></h3>
       <p><b>Research simulation lab for adaptive SIS contagion on hypergraphs.</b></p>
@@ -79,7 +91,9 @@
       </p>
       <p><code>Python</code> <code>Streamlit</code> <code>NumPy</code> <code>Pandas</code> <code>Monte Carlo</code> <code>Hypergraph Modeling</code></p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3><a href="https://github.com/dhruvtoprani/WattX-CodeBase">WattX</a></h3>
       <p><b>Peer-to-peer microgrid simulation and distributed energy coordination platform.</b></p>
       <p>HackDearborn-winning MVP exploring how homes, batteries, solar, and storage nodes could coordinate local supply, demand, and energy transfers through an agent-based simulation layer.</p>
