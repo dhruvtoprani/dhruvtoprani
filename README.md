@@ -16,6 +16,18 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/dhruvtoprani/resurrect">Resurrect</a></h3>
+      <p><b>Agent skill and local CLI for turning abandoned repositories into evidence-backed product decisions and safe comeback branches.</b></p>
+      <p>Reconstructs original intent, diagnoses why a project stalled, measures what became easier, chooses Revive, Rebuild, Salvage, or Archive, and prepares an approval-gated Milestone Zero.</p>
+      <p>
+        <a href="https://github.com/dhruvtoprani/resurrect#60-second-demo">60-Second Demo</a> &middot;
+        <a href="https://github.com/dhruvtoprani/resurrect">Source</a> &middot;
+        <a href="https://github.com/dhruvtoprani/resurrect#workflow">Workflow</a> &middot;
+        <a href="https://github.com/dhruvtoprani/resurrect#safety-model">Safety</a>
+      </p>
+      <p><code>Node.js</code> <code>TypeScript</code> <code>Git</code> <code>GitHub CLI</code> <code>Agent Skills</code> <code>Codex</code> <code>Claude Code</code></p>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/dhruvtoprani/ratradar-nyc">RatRadar NYC</a></h3>
       <p><b>Interpretable civic-intelligence system for predicting next-week rodent complaint surges across 177 NYC ZIP areas.</b></p>
       <p>Turns official NYC 311 history into leakage-safe weekly features, XGBoost risk scores, SHAP explanations, and a geospatial command-center dashboard for inspection prioritization.</p>
@@ -27,6 +39,8 @@
       </p>
       <p><code>Python</code> <code>XGBoost</code> <code>SHAP</code> <code>Streamlit</code> <code>Plotly</code> <code>Pandas</code> <code>Vercel</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/dhruvtoprani/SunSight">SunSight</a></h3>
       <p><b>Solar feasibility workspace for address-based rooftop and parcel planning.</b></p>
@@ -39,8 +53,6 @@
       </p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>FastAPI</code> <code>Leaflet</code> <code>Mapbox</code> <code>PVWatts</code> <code>Vercel</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/dhruvtoprani/DroneLab">DroneLab</a></h3>
       <p><b>3D FPV drone builder for compatibility checks, performance estimates, and BOM exports.</b></p>
@@ -53,6 +65,8 @@
       </p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>Three.js</code> <code>React Three Fiber</code> <code>Zustand</code> <code>Prisma</code> <code>Supabase</code> <code>Vercel</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/dhruvtoprani/atlasfx">AtlasFX</a></h3>
       <p><b>Global money-weather dashboard for explainable currency stress detection.</b></p>
@@ -65,8 +79,6 @@
       </p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>FastAPI</code> <code>Python</code> <code>scikit-learn</code> <code>Frankfurter API</code> <code>World Bank API</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/dhruvtoprani/preflight-AI">PreFlight AI</a></h3>
       <p><b>Slack-native stakeholder intelligence layer for PM and TPM kickoff readiness.</b></p>
@@ -79,6 +91,8 @@
       </p>
       <p><code>Python</code> <code>FastAPI</code> <code>Pydantic</code> <code>Slack</code> <code>Jira API</code> <code>Confluence API</code> <code>OpenAI API</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/dhruvtoprani/docflow-mcp">DocFlow MCP</a></h3>
       <p><b>MCP-native documentation clipper for AI coding workflows.</b></p>
@@ -91,8 +105,6 @@
       </p>
       <p><code>TypeScript</code> <code>Node.js</code> <code>MCP</code> <code>HTTP API</code> <code>Vercel</code> <code>Chrome Extension</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/dhruvtoprani/adaptive_higher_order_contagion_lab">Adaptive Higher Order Contagion Lab</a></h3>
       <p><b>Research simulation lab for adaptive SIS contagion on hypergraphs.</b></p>
@@ -104,18 +116,6 @@
         <a href="https://github.com/dhruvtoprani/adaptive_higher_order_contagion_lab/blob/main/docs/model_spec.md">Model Spec</a>
       </p>
       <p><code>Python</code> <code>Streamlit</code> <code>NumPy</code> <code>Pandas</code> <code>Monte Carlo</code> <code>Hypergraph Modeling</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/dhruvtoprani/WattX-CodeBase">WattX</a></h3>
-      <p><b>Peer-to-peer microgrid simulation and distributed energy coordination platform.</b></p>
-      <p>HackDearborn-winning MVP exploring how homes, batteries, solar, and storage nodes could coordinate local supply, demand, and energy transfers through an agent-based simulation layer.</p>
-      <p>
-        <a href="https://github.com/dhruvtoprani/WattX-CodeBase">Source</a> &middot;
-        <a href="https://github.com/dhruvtoprani/WattX-CodeBase#product-thesis">Product Thesis</a> &middot;
-        <a href="https://github.com/dhruvtoprani/WattX-CodeBase#system-concept">System Concept</a> &middot;
-        <a href="https://github.com/dhruvtoprani/WattX-CodeBase#local-development">Run Locally</a>
-      </p>
-      <p><code>Next.js</code> <code>React</code> <code>Python</code> <code>Flask</code> <code>Supabase</code> <code>Fetch.ai</code></p>
     </td>
   </tr>
 </table>
