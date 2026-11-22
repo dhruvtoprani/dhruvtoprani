@@ -20,7 +20,7 @@
       <p><b>Chrome extension that turns browser gameplay and facecam reactions into vertical clips.</b></p>
       <p>Capture a game tab, then trim the recording, correct caption text and timing, and export a 9:16 video or SRT from a local studio.</p>
       <p>
-        <a href="https://github.com/dhruvtoprani/clippy#screenshots">Studio Preview</a> &middot;
+        <a href="https://github.com/dhruvtoprani/clippy#screenshots">Setup Preview</a> &middot;
         <a href="https://github.com/dhruvtoprani/clippy">Source</a> &middot;
         <a href="https://github.com/dhruvtoprani/clippy#try-it">Setup</a> &middot;
         <a href="https://github.com/dhruvtoprani/clippy#how-it-works">Architecture</a>
