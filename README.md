@@ -15,6 +15,20 @@
 ## Project Highlights
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/dhruvtoprani/clippy">Clippy</a></h3>
+      <p><b>Chrome extension that turns browser gameplay and facecam reactions into vertical clips.</b></p>
+      <p>Capture a game tab, then trim the recording, correct caption text and timing, and export a 9:16 video or SRT from a local studio.</p>
+      <p>
+        <a href="https://github.com/dhruvtoprani/clippy#screenshots">Studio Preview</a> &middot;
+        <a href="https://github.com/dhruvtoprani/clippy">Source</a> &middot;
+        <a href="https://github.com/dhruvtoprani/clippy#try-it">Setup</a> &middot;
+        <a href="https://github.com/dhruvtoprani/clippy#how-it-works">Architecture</a>
+      </p>
+      <p><code>JavaScript</code> <code>Chrome MV3</code> <code>MediaRecorder</code> <code>Web Audio</code> <code>IndexedDB</code></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/dhruvtoprani/resurrect">Resurrect</a></h3>
       <p><b>Agent skill and local CLI for turning abandoned repositories into evidence-backed product decisions and safe comeback branches.</b></p>
